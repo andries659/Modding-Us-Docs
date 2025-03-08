@@ -1,0 +1,3 @@
+import comp from "C:/Users/User/Desktop/Modding-Us/docs/.vuepress/.temp/pages/changelogs/tags.html.vue"
+const data = JSON.parse("{\"path\":\"/changelogs/tags.html\",\"title\":\"Changelog Tags\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Changelog Tags\",\"sidebar\":[{\"text\":\"Changelogs Tags\",\"link\":\"/changelogs/tags.html\"}]},\"headers\":[],\"git\":{\"updatedTime\":1741280766000,\"contributors\":[{\"name\":\"AndriesWorks\",\"email\":\"andries46565@gmail.com\",\"commits\":1,\"url\":\"https://github.com/AndriesWorks\"}]},\"filePathRelative\":\"changelogs/tags.md\"}")
+export { comp, data }

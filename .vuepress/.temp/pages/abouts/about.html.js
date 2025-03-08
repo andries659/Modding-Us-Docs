@@ -1,0 +1,3 @@
+import comp from "C:/Users/User/Desktop/Modding-Us/docs/.vuepress/.temp/pages/abouts/about.html.vue"
+const data = JSON.parse("{\"path\":\"/abouts/about.html\",\"title\":\"About\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"About\"},\"headers\":[{\"level\":2,\"title\":\"Contact Us\",\"slug\":\"contact-us\",\"link\":\"#contact-us\",\"children\":[]}],\"git\":{\"updatedTime\":1741280766000,\"contributors\":[{\"name\":\"AndriesWorks\",\"email\":\"andries46565@gmail.com\",\"commits\":1,\"url\":\"https://github.com/AndriesWorks\"}]},\"filePathRelative\":\"abouts/about.md\"}")
+export { comp, data }

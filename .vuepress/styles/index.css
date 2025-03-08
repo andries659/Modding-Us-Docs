@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif; /* Use Arial as primary, fallback to sans-serif */
+    font-weight: normal; /* Regular weight */
+  }
+  
+  strong, b {
+    font-weight: bold; /* Bold weight for strong/bold elements */
+  }

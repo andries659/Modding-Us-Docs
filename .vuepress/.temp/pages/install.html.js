@@ -1,0 +1,3 @@
+import comp from "C:/Users/User/Desktop/Modding-Us/docs/.vuepress/.temp/pages/install.html.vue"
+const data = JSON.parse("{\"path\":\"/install.html\",\"title\":\"Install\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Install\"},\"headers\":[{\"level\":2,\"title\":\"Distribution Policy\",\"slug\":\"distribution-policy\",\"link\":\"#distribution-policy\",\"children\":[]},{\"level\":2,\"title\":\"Modding Us\",\"slug\":\"modding-us\",\"link\":\"#modding-us\",\"children\":[]}],\"git\":{\"updatedTime\":1741280766000,\"contributors\":[{\"name\":\"AndriesWorks\",\"email\":\"andries46565@gmail.com\",\"commits\":2,\"url\":\"https://github.com/AndriesWorks\"}]},\"filePathRelative\":\"install.md\"}")
+export { comp, data }
