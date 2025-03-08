@@ -18,8 +18,7 @@ This policy is in place to keep the integrity of our Tester roles. If you are in
 <details>
 <summary><b>Installing <font color=red>Beta Builds</font></b></summary>
 <ul>
-<li>Visit the <a href="https://discord.gg/S6hY6DaJBQ" style="color:lime">Modding Us Discord Server</a> and go to the <code v-pre>📣announcements</code> channel, and sign up for the Beta testing programme.<br>
-After that, you'll be granted the <code v-pre>@Beta Tester</code> role, and will have access to the beta downloads channel.</li>
+<li>Visit the <a href="https://discord.gg/S6hY6DaJBQ" style="color:lime">Modding Us Discord Server</a>, and the you'll have to be and lucky to get picked for Beta Testing.</li>
 </ul>
 </details></div></template>
 
