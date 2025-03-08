@@ -1,6 +1,7 @@
 ---
 title: Home
 home: true
+heroImage: /images/home.png
 heroText: Modding Us
 tagline: The mod that brings people together!
 actions:

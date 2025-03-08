@@ -1,0 +1,3 @@
+import comp from "C:/Users/User/Desktop/Modding-Us/docs/.vuepress/.temp/pages/roles/modding-us/crewmates/vanilla/engineer.html.vue"
+const data = JSON.parse("{\"path\":\"/roles/modding-us/crewmates/vanilla/engineer.html\",\"title\":\"Engineer\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Engineer\",\"sidebar\":[{\"text\":\"Back to Crewmates\",\"link\":\"/roles/modding-us/crewmates/crewmates.html\"},{\"text\":\"Crewmate\",\"link\":\"/roles/modding-us/crewmates/vanilla/crewmate.html\"},{\"text\":\"Engineer\",\"link\":\"/roles/modding-us/crewmates/vanilla/engineer.html\"}],\"next\":\"/roles/modding-us/crewmates/crewmates.html\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"roles/modding-us/crewmates/vanilla/engineer.md\"}")
+export { comp, data }

@@ -1,0 +1,3 @@
+import comp from "C:/Users/User/Desktop/Modding-Us/docs/.vuepress/.temp/pages/roles/modding-us/crewmates/killing/sherrif.html.vue"
+const data = JSON.parse("{\"path\":\"/roles/modding-us/crewmates/killing/sherrif.html\",\"title\":\"Sherrif\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Sherrif\",\"sidebar\":[{\"text\":\"Back to Crewmates\",\"link\":\"/roles/modding-us/crewmates/crewmates.html\"},{\"text\":\"Sherrif\",\"link\":\"/roles/modding-us/crewmates/killing/sherrif.html\"}],\"prev\":\"/roles/modding-us/crewmates/crewmates.html\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"roles/modding-us/crewmates/killing/sherrif.md\"}")
+export { comp, data }

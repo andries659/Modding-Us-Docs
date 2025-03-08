@@ -2,7 +2,6 @@
 title: Modding Us Changelogs
 sidebar:
 - { text: Modding Us Changelogs, link: /changelogs/modding-us/mu.html}
-- { text: Modding Us Beta Changelogs, link: /changelogs/modding-us/dev.html}
 - { text: Modding Us Stable Changelogs, link: /changelogs/modding-us/stable.html}
 ---
 # Modding Us Changelogs

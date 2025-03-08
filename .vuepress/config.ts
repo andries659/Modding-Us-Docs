@@ -24,6 +24,9 @@ export default defineUserConfig({
         text: 'Roles',
         children: [
           { text: 'All Roles', link: '/roles/modding-us/mu-roles.html'},
+          { text: 'Crewmate Roles', link: '/roles/modding-us/crewmates/crewmates.html'},
+          { text: 'Impostor Roles', link: '/roles/modding-us/impostors/impostors.html'},
+          { text: 'Neutral Roles', link: '/roles/modding-us/neutrals/neutrals.html'},
           { text: 'Game Settings', link: '/roles/settings/game.html' },
           { text: 'Game Modifiers', link: '/roles/settings/modifiers.html' },
         ],
@@ -55,16 +58,14 @@ export default defineUserConfig({
         { text: 'About Modding Us', link: '/abouts/about/aboutmu.html' },
         { text: 'About Us', link: '/abouts/about/aboutUs.html' },
       ],
-      '/roles/': [
-        { text: 'Game Settings', link: '/roles/settings/game.html' },
-        { text: 'Game Modifiers', link: '/roles/settings/modifiers.html' },
+      '/changelogs/modding-us/': [
+        { text: 'Modding Us Changelogs', link: '/changelogs/modding-us/mu.html' },
+        { text: 'Modding Us Stable Changelogs', link: '/changelogs/modding-us/stable.html' },
       ],
     },
   }),
 
   lang: 'en-US',
-  title: 'Modding Us',
-  description: 'The mod that brings people together!',
 
   plugins: [
     searchPlugin({

@@ -95,13 +95,6 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "Modding Us Beta Changelogs",
-    "headers": [],
-    "path": "/changelogs/modding-us/dev.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "Modding Us Changelogs",
     "headers": [],
     "path": "/changelogs/modding-us/mu.html",
@@ -120,15 +113,15 @@ export const SEARCH_INDEX = [
     "headers": [
       {
         "level": 2,
-        "title": "⚒️ Changes",
-        "slug": "changes",
-        "link": "#changes",
+        "title": "⭐ New!",
+        "slug": "new",
+        "link": "#new",
         "children": [
           {
             "level": 3,
-            "title": "⭐ New!",
-            "slug": "new",
-            "link": "#new",
+            "title": "8 March 2025:",
+            "slug": "_8-march-2025",
+            "link": "#_8-march-2025",
             "children": []
           }
         ]
@@ -176,7 +169,29 @@ export const SEARCH_INDEX = [
   },
   {
     "title": "Crewmate Roles",
-    "headers": [],
+    "headers": [
+      {
+        "level": 2,
+        "title": "Vanilla",
+        "slug": "vanilla",
+        "link": "#vanilla",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Support",
+        "slug": "support",
+        "link": "#support",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Killing",
+        "slug": "killing",
+        "link": "#killing",
+        "children": []
+      }
+    ],
     "path": "/roles/modding-us/crewmates/crewmates.html",
     "pathLocale": "/",
     "extraFields": []
@@ -192,6 +207,34 @@ export const SEARCH_INDEX = [
     "title": "Neutral Roles",
     "headers": [],
     "path": "/roles/modding-us/neutrals/neutrals.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Sherrif",
+    "headers": [],
+    "path": "/roles/modding-us/crewmates/killing/sherrif.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Medic",
+    "headers": [],
+    "path": "/roles/modding-us/crewmates/support/medic.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Crewmate",
+    "headers": [],
+    "path": "/roles/modding-us/crewmates/vanilla/crewmate.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Engineer",
+    "headers": [],
+    "path": "/roles/modding-us/crewmates/vanilla/engineer.html",
     "pathLocale": "/",
     "extraFields": []
   },

@@ -13,6 +13,18 @@ sidebar:
 
 | Role Type | Amount |
 | :---- | :-: |
-| <a href="#power" style="color:#2154cc">Power</a> |  |
-| <a href="#support" style="color:#12e6de">Support</a> |  |
-| Total |  |
+| <b><font color=#8cffff>:icecream: Vanilla</font></b> | 2 |
+| <b><font color=gold>:judge: Support</font></b> | 1 |
+| <b><font color=#b22222>:dagger: Killing</font></b> | 1 |
+| <b>Total</b> | 4 |
+
+## <b><font color=#8cffff>Vanilla</font></b>
+[Crewmate](/roles/modding-us/crewmates/vanilla/crewmate.html) | [Engineer](/roles/modding-us/crewmates/vanilla/engineer.html)
+<br>
+
+## <b><font color=gold>Support</font></b>
+[Medic](/roles/modding-us/crewmates/support/medic.html)
+<br>
+
+## <b><font color=#b22222>Killing</font></b>
+[Sherrif](/roles/modding-us/crewmates/killing/sherrif.html)
